@@ -33,9 +33,15 @@
   <a href="https://skillicons.dev">
       <picture>
           <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=dark' />
+<source media="(prefers-color-scheme: light)" srcset='https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=light' />
           <img src='https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=light' alt="github-snake" />
         </picture>
-        
+          <br>
+          <picture>
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Cmysql%2Cdjango%2Chtml%2Credux%2Cblender%2Cae%2Clinux%2Cvscode%2Cheroku%2Cfigma&theme=dark' />
+          <source media="(prefers-color-scheme: light)" srcset='https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Cmysql%2Cdjango%2Chtml%2Credux%2Cblender%2Cae%2Clinux%2Cvscode%2Cheroku%2Cfigma&theme=light' />
+          <img src='https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Cmysql%2Cdjango%2Chtml%2Credux%2Cblender%2Cae%2Clinux%2Cvscode%2Cheroku%2Cfigma&theme=light' alt="github-snake" />
+        </picture>
   </a>
 </p>
 <br>
