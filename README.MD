@@ -6,17 +6,17 @@
   </a>
 </h1>
 
-<br>
+<br />
 <p align="center">
   Hi, I'm Sanidhya Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
-  <br>
-  <br>
+  <br />
+  <br />
   🎓 Currently a high school student.
-  <br>
+  <br />
   💻 I love to learn new technologies and frameworks.
-  <br>
+  <br />
   🧑‍💼 I’m currently a freelancer working as a MERN stack developer.
-  <br>
+  <br />
 </p>
 
 <div align="center"> 
@@ -28,7 +28,7 @@
 
 <hr>
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
-<br>
+<br />
 <p align="center">
   <a href="https://skillicons.dev">
       <picture>
@@ -36,7 +36,7 @@
 <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=light" />
           <img src="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=light" alt="skills - 1" />
         </picture>
-          <br>
+          <br />
           <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Cmysql%2Cdjango%2Chtml%2Credux%2Cblender%2Cae%2Clinux%2Cvscode%2Cheroku%2Cfigma&theme=dark" />
           <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Cmysql%2Cdjango%2Chtml%2Credux%2Cblender%2Cae%2Clinux%2Cvscode%2Cheroku%2Cfigma&theme=light" />
@@ -44,7 +44,7 @@
         </picture>
   </a>
 </p>
-<br>
+<br />
 
 <h4>Learning</h4>
 <p align="center">
@@ -60,21 +60,21 @@
 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br>
+  <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
     <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
-  <br>
-  <br>
-  <br>
+  <br />
+  <br />
+  <br />
 </div>
 
   <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<br />
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -92,7 +92,7 @@
       </picture>
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br /><br /><br /><br /><br /><br /><br /><br /><br />
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
@@ -102,9 +102,9 @@
       </picture>
     </a>
   </div>
-  <br>
-  <br>
-  <br>
+  <br />
+  <br />
+  <br />
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&theme=react-dark" />
@@ -117,7 +117,7 @@
 <hr>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
+<br />
 <div width="100%" align="center">
   <a align="right" href="https://github.com/sanidhyy/3d-portfolio" title="3D Portfolio">
     <picture>
@@ -151,7 +151,7 @@
     </picture>
 </div>
 
-<br><br><br><br><br><br>
+<br /><br /><br /><br /><br /><br />
 
 <!-- Show more repos -->
 <h4 align="center">
