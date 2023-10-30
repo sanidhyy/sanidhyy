@@ -11,7 +11,7 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Sanidhya Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
   <br />
   <br />
   🎓 Currently a high school student.
