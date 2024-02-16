@@ -59,7 +59,7 @@
 <br />
 
 <!-- learnings -->
-<h4>Learning</h4>
+<h4 align="center">Learning</h4>
 <p align="center">
   <a href="https://skillicons.dev">
       <picture>
