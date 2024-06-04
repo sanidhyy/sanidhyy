@@ -60,7 +60,7 @@
 
 <!-- more tools -->
 <h4 align="center">More Tools</h4>
-<p align="center" style="display: flex; align-items: center; justify-content: center;">
+<p align="center">
   <a href="https://skillicons.dev">
       <picture>
           <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=solidity%2Cgooglecloud&theme=dark' />
