@@ -58,8 +58,8 @@
 </p>
 <br />
 
-<!-- learnings -->
-<h4 align="center">Learning</h4>
+<!-- more tools -->
+<h4 align="center">More Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
       <picture>
@@ -68,6 +68,10 @@
           <img src='https://skillicons.dev/icons?i=solidity%2Cgooglecloud' alt="learning" />
         </picture>
   </a>
+
+<a href="https://www.logalert.app">
+  <img src='https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge' alt="learning" />
+</a>
 </p>
 <hr />
 
