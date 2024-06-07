@@ -4,7 +4,7 @@
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sanidhya!;&center=true&size=30">
+    <img src="https://readme-typing-svg.pp.com/?lines=Hi+There!+👋;+Myself+Sanidhya!;&center=true&size=30">
   </a>
 </h1>
 
@@ -42,30 +42,30 @@
   <a href="https://skillicons.dev">
       <!-- first row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=dark" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=light" />
-          <img src="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=light" alt="skills - 1" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,git,html,css,javascript,ts,tailwind,figma,threejs&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs,react,git,html,css,javascript,ts,tailwind,figma,threejs&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs,react,git,html,css,javascript,ts,tailwind,figma,threejs&theme=light" alt="skills - 1" />
         </picture>
           <br />
           <!-- second row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Cmysql%2Cdjango%2Chtml%2Credux%2Cblender%2Cae%2Clinux%2Cvscode%2Cheroku%2Cfigma&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Cmysql%2Cdjango%2Chtml%2Credux%2Cblender%2Cae%2Clinux%2Cvscode%2Cheroku%2Cfigma&theme=light" />
-            <img src="https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Cmysql%2Cdjango%2Chtml%2Credux%2Cblender%2Cae%2Clinux%2Cvscode%2Cheroku%2Cfigma&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redux,prisma,firebase,supabase&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redux,prisma,firebase,supabase&theme=light" />
+            <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redux,prisma,firebase,supabase&theme=light" alt="skills - 2" />
         </picture>
 
   </a>
 </p>
 <br />
 
-<!-- more tools -->
-<h4 align="center">More Tools</h4>
+<!-- deployment -->
+<h3 align="center">Deployment</h3>
 <p align="center">
   <a href="https://skillicons.dev">
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=solidity%2Cgooglecloud&theme=dark' />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=solidity%2Cgooglecloud&theme=light' />
-          <img src='https://skillicons.dev/icons?i=solidity%2Cgooglecloud' alt="learning" />
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale,vercel,netlify&theme=dark' />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale,vercel,netlify&theme=light' />
+          <img src='https://skillicons.dev/icons?i=planetscale,vercel,netlify' alt="learning" />
         </picture>
   </a>
 <br />
@@ -100,17 +100,17 @@
   <!-- streak stats -->
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=default&border=61dafb" alt="sanidhyy's streak stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.pp.com/?user=sanidhyy&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.pp.com/?user=sanidhyy&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats.pp.com/?user=sanidhyy&theme=default&border=61dafb" alt="sanidhyy's streak stats" />
       </picture>
     </a>
   <!-- github stats -->
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" alt="sanidhyy's github stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.firebase.supabase/api?username=sanidhyy&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.firebase.supabase/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.firebase.supabase/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" alt="sanidhyy's github stats" />
       </picture>
     </a>
   </div>
@@ -121,9 +121,9 @@
   <!-- language stats -->
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyy&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyy&langs_count=8&layout=compact&border_color=61dafb" />
-        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyy&langs_count=8&layout=compact&border_color=61dafb" alt="sanidhyy's language stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.firebase.supabase/api/top-langs/?username=sanidhyy&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.firebase.supabase/api/top-langs/?username=sanidhyy&langs_count=8&layout=compact&border_color=61dafb" />
+        <img align="center" width=325 src="https://github-readme-stats.firebase.supabase/api/top-langs/?username=sanidhyy&langs_count=8&layout=compact&border_color=61dafb" alt="sanidhyy's language stats" />
       </picture>
     </a>
   </div>
@@ -134,9 +134,9 @@
   <!-- contribution graph -->
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sanidhyy's contribution graph" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.firebase.supabase/graph?username=sanidhyy&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.firebase.supabase/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.firebase.supabase/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sanidhyy's contribution graph" />
     </picture>
   </a>
 </p>
@@ -151,17 +151,17 @@
 <!-- repo 1 -->
   <a align="right" href="https://github.com/sanidhyy/3d-portfolio" title="3D Portfolio">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - 3d portfolio" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.firebase.supabase/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.firebase.supabase/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.firebase.supabase/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - 3d portfolio" />
     </picture>
   </a>
 <!-- repo 2 -->
   <a align="left" href="https://github.com/sanidhyy/mern-admin" title="Admin Dashboard">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - mern admin" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.firebase.supabase/api/pin/?username=sanidhyy&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.firebase.supabase/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.firebase.supabase/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - mern admin" />
     </picture>
 </a>
 </div>
@@ -171,17 +171,17 @@
 <!-- repo 3 -->
   <a align="left" href="https://github.com/sanidhyy/portfolio-react" title="React Portfolio">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=portfolio-react&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=portfolio-react&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=portfolio-react&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - portfolio react" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.firebase.supabase/api/pin/?username=sanidhyy&repo=portfolio-react&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.firebase.supabase/api/pin/?username=sanidhyy&repo=portfolio-react&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.firebase.supabase/api/pin/?username=sanidhyy&repo=portfolio-react&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - portfolio react" />
     </picture>
   </a>
 <!-- repo 4 -->
   <a align="right" href="https://github.com/sanidhyy/real-estate-app" title="Real EState App">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=real-estate-app&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=real-estate-app&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=real-estate-app&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - real estate app" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.firebase.supabase/api/pin/?username=sanidhyy&repo=real-estate-app&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.firebase.supabase/api/pin/?username=sanidhyy&repo=real-estate-app&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.firebase.supabase/api/pin/?username=sanidhyy&repo=real-estate-app&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - real estate app" />
     </picture>
 </div>
 
