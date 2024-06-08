@@ -153,15 +153,15 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - 3d portfolio" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - 3D portfolio" />
     </picture>
   </a>
 <!-- repo 2 -->
-  <a align="left" href="https://github.com/sanidhyy/mern-admin" title="Admin Dashboard">
+  <a align="left" href="https://github.com/sanidhyy/modern-portfolio" title="Modern Portfolio">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - mern admin" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=modern-portfolio&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=modern-portfolio&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=modern-portfolio&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - Modern Portfolio" />
     </picture>
 </a>
 </div>
@@ -169,19 +169,19 @@
 <!-- second row -->
 <div width="100%" align="center">
 <!-- repo 3 -->
-  <a align="left" href="https://github.com/sanidhyy/portfolio-react" title="React Portfolio">
+  <a align="left" href="https://github.com/sanidhyy/space-portfolio" title="Space Portfolio">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=portfolio-react&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=portfolio-react&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=portfolio-react&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - portfolio react" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=space-portfolio&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=space-portfolio&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=space-portfolio&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - Space Portfolio" />
     </picture>
   </a>
 <!-- repo 4 -->
-  <a align="right" href="https://github.com/sanidhyy/real-estate-app" title="Real EState App">
+  <a align="right" href="https://github.com/sanidhyy/duolingo-clone" title="Duolingo Clone">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=real-estate-app&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=real-estate-app&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=real-estate-app&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - real estate app" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - Duolingo Clone" />
     </picture>
 </div>
 
