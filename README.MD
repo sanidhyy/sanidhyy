@@ -1,24 +1,22 @@
 <!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
+<img align="right" src="https://komarev.com/ghpvc/?username=himanshyouu">
 
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sanidhya!;&center=true&font=Righteous&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Himanshu!;&center=true&font=Righteous&size=35">
   </a>
 </h1>
 
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  Hi, I'm Himanshu Makeshwer, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from Delhi, India 🇮🇳.
   <br />
   <br />
-  🎓 Currently a high school student.
+  🎓 Currently a Post Graduate Aspirant.
   <br />
   💻 I love to learn new technologies and frameworks.
-  <br />
-  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
   <br />
 </p>
 
@@ -27,9 +25,9 @@
   <!-- twitter -->
   <a href="https://x.com/_sanidhyy" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
   <!-- gmail -->
-  <a href="mailto:sanidhya.verma12345@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:himanshu.futureready@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/sanidhyy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/himanshu-futureready" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <hr />
